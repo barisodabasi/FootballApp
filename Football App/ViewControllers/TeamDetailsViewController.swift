@@ -76,7 +76,7 @@ class TeamDetailsViewController: UIViewController {
     
     func response() {
         let headers: HTTPHeaders = [
-            "x-rapidapi-key": "6032d3b765msh84dc4e05a81515bp18eafdjsn9a34429b3475",
+            "x-rapidapi-key": "YOUR_API_KEY !!!!!",
             "x-rapidapi-host": "api-football-v1.p.rapidapi.com"
         ]
         showIndicator()
@@ -101,7 +101,7 @@ class TeamDetailsViewController: UIViewController {
     
     func playerResponse() {
         let headers: HTTPHeaders = [
-            "x-rapidapi-key": "6032d3b765msh84dc4e05a81515bp18eafdjsn9a34429b3475",
+            "x-rapidapi-key": "YOUR_API_KEY !!!!!",
             "x-rapidapi-host": "api-football-v1.p.rapidapi.com"
         ]
                 showIndicator()
